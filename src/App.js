@@ -4,6 +4,7 @@ import {useState, useEffect} from 'react';
 import Product from './components/Product';
 import Products from './Products.json';
 import Basket from './components/Basket';
+import Navbar from './components/Navbar';
 
 
 function App() {
@@ -26,6 +27,7 @@ useEffect( () => {
   return (
     <div >
         <Header total={total} money ={money} />
+        <Navbar />
         <div className='container products'> 
         {Products.map(product => (
           <Product key={product.id} total={total} money={money} basket={basket} setBasket={setBasket} product={product}/>
