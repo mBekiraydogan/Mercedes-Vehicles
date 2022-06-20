@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "title":"Mercedes S-Class",
+        "price":150000,
+        "image":"https://imgd.aeplcdn.com/0x0/n/cw/ec/48067/s-class-exterior-right-front-three-quarter-3.jpeg"
+    },
+    {
+        "id":"2",
+        "title":"Mercedes E-Class",
+        "price":120000,
+        "image":"https://x-tremetuning.com/images/detailed/17/w213-amg-e46-on.png"
+    },
+    {
+        "id":"3",
+        "title":"Mercedes C-Class",
+        "price":90000,
+        "image":"https://imgd.aeplcdn.com/1200x900/n/cw/ec/116201/new-c-class-exterior-right-front-three-quarter-2.jpeg?isig=0&q=75"
+    },
+    {
+        "id":"4",
+        "title":"Mercedes AMG-GT",
+        "price":300000,
+        "image":"https://fiyatlistesi.com.tr/wp-content/uploads/2021/08/AMG-GT-4-Kapi-Coupe-Fiyat-Listesi.jpg"
+    },
+    {
+        "id":"5",
+        "title":"Mercedes G-Class",
+        "price":450000,
+        "image":"https://www.mbusa.com/content/dam/mb-nafta/us/myco/my21/g/class-page/series/2021-G-SUV-CT-2-6-1-DR.jpg"
+    }
+]
